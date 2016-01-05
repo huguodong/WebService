@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">http://172.16.101.97:81/test.html</string>
+    <string name="ApplicationName">WebService</string>
+</resources>

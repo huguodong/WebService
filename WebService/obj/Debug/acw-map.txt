@@ -1,0 +1,12 @@
+WebService.Activity1, WebService;md54aebfbd4515b6c534d3f4142f38ebff5.Activity1
+WebService.Activity1, WebService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54aebfbd4515b6c534d3f4142f38ebff5.Activity1
+WebService.Activity1;md54aebfbd4515b6c534d3f4142f38ebff5.Activity1
+webservice.Activity1;md54aebfbd4515b6c534d3f4142f38ebff5.Activity1
+WebService.MainActivity, WebService;md54aebfbd4515b6c534d3f4142f38ebff5.MainActivity
+WebService.MainActivity, WebService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54aebfbd4515b6c534d3f4142f38ebff5.MainActivity
+WebService.MainActivity;md54aebfbd4515b6c534d3f4142f38ebff5.MainActivity
+webservice.MainActivity;md54aebfbd4515b6c534d3f4142f38ebff5.MainActivity
+WebService.MainActivity/WebPlugin, WebService;md54aebfbd4515b6c534d3f4142f38ebff5.MainActivity_WebPlugin
+WebService.MainActivity/WebPlugin, WebService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54aebfbd4515b6c534d3f4142f38ebff5.MainActivity_WebPlugin
+WebService.MainActivity.WebPlugin;md54aebfbd4515b6c534d3f4142f38ebff5.MainActivity_WebPlugin
+webservice.MainActivity_WebPlugin;md54aebfbd4515b6c534d3f4142f38ebff5.MainActivity_WebPlugin

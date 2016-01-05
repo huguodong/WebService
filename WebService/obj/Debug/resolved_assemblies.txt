@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2015\Projects\WebService\WebService\obj\Debug\assemblies\WebService.dll
+D:\Documents\Visual Studio 2015\Projects\WebService\WebService\obj\Debug\assemblies\Mono.Android.dll
+D:\Documents\Visual Studio 2015\Projects\WebService\WebService\obj\Debug\assemblies\Mono.Android.Export.dll
+D:\Documents\Visual Studio 2015\Projects\WebService\WebService\obj\Debug\assemblies\mscorlib.dll
+D:\Documents\Visual Studio 2015\Projects\WebService\WebService\obj\Debug\assemblies\System.Core.dll
+D:\Documents\Visual Studio 2015\Projects\WebService\WebService\obj\Debug\assemblies\System.dll
+D:\Documents\Visual Studio 2015\Projects\WebService\WebService\obj\Debug\assemblies\System.Xml.dll
+D:\Documents\Visual Studio 2015\Projects\WebService\WebService\obj\Debug\assemblies\System.Xml.Linq.dll

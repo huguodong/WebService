@@ -1,0 +1,14 @@
+D:\Documents\Visual Studio 2015\Projects\WebService\WebService\bin\Debug\WebService.dll
+D:\Documents\Visual Studio 2015\Projects\WebService\WebService\bin\Debug\WebService.pdb
+D:\Documents\Visual Studio 2015\Projects\WebService\WebService\bin\Debug\WebService.WebService.apk
+D:\Documents\Visual Studio 2015\Projects\WebService\WebService\bin\Debug\WebService.WebService-Signed.apk
+D:\Documents\Visual Studio 2015\Projects\WebService\WebService\obj\Debug\WebService.dll
+D:\Documents\Visual Studio 2015\Projects\WebService\WebService\obj\Debug\WebService.pdb
+D:\Documents\Visual Studio 2015\Projects\WebService\WebService\obj\Debug\android\bin\WebService.WebService.apk
+D:\Documents\Visual Studio 2015\Projects\WebService\WebService\obj\Debug\res\layout\layout1.xml
+D:\Documents\Visual Studio 2015\Projects\WebService\WebService\obj\Debug\res\layout\main.xml
+D:\Documents\Visual Studio 2015\Projects\WebService\WebService\obj\Debug\res\values\strings.xml
+D:\Documents\Visual Studio 2015\Projects\WebService\WebService\obj\Debug\res\drawable\icon.png
+D:\Documents\Visual Studio 2015\Projects\WebService\WebService\obj\Debug\R.cs.flag
+D:\Documents\Visual Studio 2015\Projects\WebService\WebService\obj\Debug\uploadflags.txt
+D:\Documents\Visual Studio 2015\Projects\WebService\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
